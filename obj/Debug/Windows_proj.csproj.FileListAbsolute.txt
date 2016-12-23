@@ -1,0 +1,17 @@
+c:\users\acer\documents\visual studio 2012\Projects\Windows_proj\Windows_proj\bin\Debug\Windows_proj.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\Windows_proj\Windows_proj\bin\Debug\Windows_proj.exe
+c:\users\acer\documents\visual studio 2012\Projects\Windows_proj\Windows_proj\bin\Debug\Windows_proj.pdb
+c:\users\acer\documents\visual studio 2012\Projects\Windows_proj\Windows_proj\obj\Debug\Windows_proj.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\Windows_proj\Windows_proj\obj\Debug\Windows_proj.Form1.resources
+c:\users\acer\documents\visual studio 2012\Projects\Windows_proj\Windows_proj\obj\Debug\Windows_proj.Form2.resources
+c:\users\acer\documents\visual studio 2012\Projects\Windows_proj\Windows_proj\obj\Debug\Windows_proj.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2012\Projects\Windows_proj\Windows_proj\obj\Debug\Windows_proj.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2012\Projects\Windows_proj\Windows_proj\obj\Debug\Windows_proj.exe
+c:\users\acer\documents\visual studio 2012\Projects\Windows_proj\Windows_proj\obj\Debug\Windows_proj.pdb
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Windows_proj\Windows_proj\obj\Debug\Windows_proj.Form3.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Windows_proj\Windows_proj\obj\Debug\Windows_proj.Form4.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Windows_proj\Windows_proj\obj\Debug\Windows_proj.Form5.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Windows_proj\Windows_proj\obj\Debug\Windows_proj.Form6.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Windows_proj\Windows_proj\obj\Debug\Windows_proj.Form7.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Windows_proj\Windows_proj\obj\Debug\Windows_proj.Form8.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Windows_proj\Windows_proj\obj\Debug\Windows_proj.Form9.resources
